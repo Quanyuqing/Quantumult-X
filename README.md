@@ -1,5 +1,4 @@
 # Quantumult
-quanyuqing
 话总说不清楚 该怎么明了
 一字一句像 圈套
 旧账总翻不完 谁无理取闹
