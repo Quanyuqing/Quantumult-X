@@ -3,3 +3,4 @@ HOST,smtp-mail.outlook.com,邮件
 HOST,imap-mail.outlook.com,邮件
 HOST,imap.gmail.com,邮件
 HOST,smtp.gmail.com,邮件
+HOST,smtp.qq.com,邮件
