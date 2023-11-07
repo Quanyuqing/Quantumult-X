@@ -1,5 +1,5 @@
 #spark 邮箱规则
-smtp-mail.outlook.com,邮件
-imap-mail.outlook.com,邮件
-imap.gmail.com,邮件
-smtp.gmail.com,邮件
+HOST,smtp-mail.outlook.com,邮件
+HOST,imap-mail.outlook.com,邮件
+HOST,imap.gmail.com,邮件
+HOST,smtp.gmail.com,邮件
