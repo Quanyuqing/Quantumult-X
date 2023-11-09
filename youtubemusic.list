@@ -1,5 +1,5 @@
-host,music.youtube.com,tw
-host-suffix,*YouTubeMusic*,tw
-host-suffix,*com.google.ios.youtubemusic*,tw
-host-suffix,YouTubeMusic*,tw
-host-suffix,com.google.ios.youtubemusic*,tw
+DOMAIN,music.youtube.com,tw
+USER-AGENT,*YouTubeMusic*,tw
+USER-AGENT,*com.google.ios.youtubemusic*,tw
+USER-AGENT,YouTubeMusic*,tw
+USER-AGENT,com.google.ios.youtubemusic*,tw
