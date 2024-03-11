@@ -1,0 +1,62 @@
+[Script]
+
+# 芒果tv //*.mgtv.com
+
+会员解锁=type=http-request,script-path=^https:\/\/mobile-stream\.api\.mgtv\.com\/v1\/video\/source\?,requires-body=1,script-path=https://raw.githubusercontent.com/Yu9191/Rewrite/main/MGTV.js
+
+我的页面=type=http-response,script-path=^https:\/\/me\.bz\.mgtv\.com\/v3\/module\/list\?,requires-body=1,script-path=https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/cnftp.js
+
+首页信息流,顶部tab1=type=http-response,script-path=^http:\/\/mob-st\.bz\.mgtv\.com\/odin\/c1\/channel\/index\?,requires-body=1,script-path=https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/cnftp.js
+
+首页信息流,顶部tab1=type=http-response,script-path=^https?:\/\/dc2?\.bz\.mgtv\.com\/dynamic\/v1\/channel\/(index|vrsList)\/\w,requires-body=1,script-path=https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/cnftp.js
+
+底部tab=type=http-response,script-path=^https:\/\/mobile\.api\.mgtv\.com\/mobile\/config\?,requires-body=1,script-path=https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/cnftp.js
+
+播放详情页2=type=http-response,script-path=^https:\/\/mobile\.api\.mgtv\.com\/v10\/video\/info\?,requires-body=1,script-path=https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/cnftp.js
+
+播放详情页3=type=http-response,script-path=^https:\/\/mobile-thor\.api\.mgtv\.com\/v1\/vod\/info\?,requires-body=1,script-path=https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/cnftp.js
+
+搜索框填充词2=type=http-response,script-path=^https?:\/\/mobileso\.bz\.mgtv\.com\/mobile\/recommend\/v2\?,requires-body=1,script-path=https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/cnftp.js
+
+
+# 优酷 //acs.youku.com, push.m.youku.com, un-acs.youku.com
+播放详情页,首页信息流,顶部tab,我的页面,评论区=type=http-response,script-path=^https:\/\/acs\.youku\.com\/gw\/mtop\.youku\.columbus\.(gateway\.new\.execute|home\.feed|home\.query|uc\.query|ycp\.query),requires-body=1,script-path=https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/cnftp.js
+
+底部tab=type=http-response,script-path=^https:\/\/acs\.youku\.com\/gw\/mtop\.youku\.haidai\.lantern\.appconfig\.get,requires-body=1,script-path=https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/cnftp.js
+
+青少年模式弹窗=type=http-response,script-path=^https:\/\/acs\.youku\.com\/gw\/mtop\.youku\.huluwa\.dispatcher\.youthmode\.config2,requires-body=1,script-path=https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/cnftp.js
+
+播放页弹窗动图=url reject-dict,script-path=^https:\/\/acs\.youku\.com\/gw\/mtop\.youku\.(pisp\.scripts\.get|xspace\.play\.position\.preload\.query|xspace\.poplayer\.position\.query)
+
+搜索列表=type=http-response,script-path=^https:\/\/acs\.youku\.com\/gw\/mtop\.youku\.soku\.yksearch,requires-body=1,script-path=https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/cnftp.js
+
+热剧弹窗=type=http-response,script-path=^https:\/\/push\.m\.youku\.com\/collect-api\/get_push_interval_config_wx\?,requires-body=1,script-path=https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/cnftp.js
+
+开屏广告=type=http-response,script-path=^https:\/\/un-acs\.youku\.com\/gw\/mtop\.youku\.play\.ups\.appinfo\.get,requires-body=1,script-path=https://raw.githubusercontent.com/RuCu6/QuanX/main/Scripts/cnftp.js
+
+[URL Rewrite]
+# 腾讯视频 //vv.video.qq.com
+^http:\/\/[\d\.:]*\/?(defaultts\.tc|vmind\.qqvideo\.tc|finderpdd\.video)\.qq\.com\/\w+ reject
+^http:\/\/apd-vlive\.apdcdn\.tc\.qq\.com\/vmind\.qqvideo\.tc\.qq\.com\/\w+ reject
+^http:\/\/apd-\w+\.v\.smtcdns\.com\/(defaultts|omts|vmind\.qqvideo)\.tc\.qq\.com\/\w+ reject
+^https?:\/\/vv\.video\.qq\.com\/(diff|get)vmind reject-dict
+
+#芒果
+# 搜索框填充词1
+^http:\/\/mobileso\.bz\.mgtv\.com\/spotlight\/search\/v1\? reject-dict
+# 播放详情页1
+^http:\/\/mobile-thor\.api\.mgtv\.com\/v1\/vod\/cms\/list\? reject-dict
+# 升级弹窗
+^https:\/\/mobile\.api\.mgtv\.com\/v2\/mobile\/checkUpdate\? reject-dict
+# 无用请求
+^http:\/\/[\d\.]+:\d{5}\/\?cmd=indexes reject
+# 首页左上角推广
+^http:\/\/[\d\.]+\/odin\/c1\/(channel\/ads|skin\/config)\? reject-dict
+# 底部tab红点
+^https:\/\/damang\.api\.mgtv\.com\/station\/album\/red\/dot\? reject-dict
+# 播放器界面
+^https:\/\/hb-boom\.api\.mgtv\.com\/release\/pullReleaseInfo reject-dict
+
+[MITM]
+
+hostname = %APPEND% -i.vip.iqiyi.com, *.iqiyi.com, *.mgtv.com, vv.video.qq.com, acs.youku.com, push.m.youku.com, un-acs.youku.com
