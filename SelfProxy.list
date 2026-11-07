@@ -1,2 +1,82 @@
-# 个人代理列表；每行 DOMAIN-SUFFIX,example.com 或 DOMAIN,example.com
-# 不要在这里填写策略名称；修改后运行 python3 scripts/build_rules.py
+# 个人代理列表：精确匹配域名，不匹配其子域名或父域名。
+# 来源：用户提供的 MoviePilot 39 个站点网址；保留 www、pt 等完整主机名。
+# 修改后运行 python3 scripts/build_rules.py；不填写协议、路径或策略名。
+
+# 织梦
+DOMAIN,zmpt.cc
+# 麒麟
+DOMAIN,www.hdkyl.in
+# AGSVPT
+DOMAIN,www.agsvpt.com
+# UBits
+DOMAIN,ubits.club
+# 青蛙
+DOMAIN,www.qingwapt.com
+# 红豆饭
+DOMAIN,hdfans.org
+# 熊猫高清
+DOMAIN,pandapt.net
+# 高清杜比
+DOMAIN,www.uhddolby.com
+# 彩虹岛
+DOMAIN,ptchdbits.co
+# 馒头
+DOMAIN,kp.m-team.cc
+# 观众
+DOMAIN,audiences.me
+# 天空
+DOMAIN,hdsky.me
+# 我堡
+DOMAIN,ourbits.club
+# 春天
+DOMAIN,springsunday.net
+# 听听歌
+DOMAIN,totheglory.im
+# 憨憨
+DOMAIN,hhan.club
+# 猫站
+DOMAIN,pterclub.net
+# 家园
+DOMAIN,hdhome.org
+# 朋友
+DOMAIN,pt.keepfrds.com
+# 学校
+DOMAIN,pt.btschool.club
+# 财神
+DOMAIN,cspt.top
+# 烧包乐园
+DOMAIN,ptsbao.club
+# 蝶粉
+DOMAIN,discfan.net
+# CARPT
+DOMAIN,carpt.net
+# 高清视界
+DOMAIN,hdarea.club
+# 高清时间
+DOMAIN,hdtime.org
+# 北洋园
+DOMAIN,www.tjupt.org
+# PT时间
+DOMAIN,www.pttime.org
+# 海棠
+DOMAIN,www.htpt.cc
+# 猪猪
+DOMAIN,piggo.me
+# 星空
+DOMAIN,star-space.net
+# 自由农场
+DOMAIN,pt.0ff.cc
+# 海豹
+DOMAIN,greatposterwall.com
+# Moment
+DOMAIN,www.momentpt.top
+# 海豚
+DOMAIN,dicmusic.com
+# 52pt
+DOMAIN,52pt.site
+# 聆音
+DOMAIN,pt.soulvoice.club
+# 城市
+DOMAIN,hdcity.city
+# 南洋
+DOMAIN,nanyangpt.com

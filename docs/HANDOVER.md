@@ -9,3 +9,5 @@
 已校验来源覆盖、ROT13 解码、去重、生成幂等性及 INI 引用顺序；未在用户 iOS QX 客户端实测。INI 保持原有 CRLF，检查空白时用 `git -c core.whitespace=cr-at-eol diff --check`。
 
 勿将仓库中的订阅 token 复制到说明、日志或新文件。
+
+个人代理列表现已加入用户从 MoviePilot 提供的 39 个站点，使用 DOMAIN 精确主机名匹配，QX 输出 host；不要改为后缀匹配，也不要去掉 www、pt 等前缀。PT 大全仍单独保留。清理阶段用户要求逐项决定删除或保留；advertising.list、Clash YAML、两个 INI 和 SelfDirect.list 明确保留。
