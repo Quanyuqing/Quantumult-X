@@ -1,5 +1,5 @@
 # 个人代理列表：精确匹配域名，不匹配其子域名或父域名。
-# 来源：用户提供的 MoviePilot 39 个站点网址；保留 www、pt 等完整主机名。
+# 来源：用户提供的 MoviePilot 站点网址（已移除 Moment，现 38 站）；保留 www、pt 等完整主机名。
 # 修改后运行 python3 scripts/build_rules.py；不填写协议、路径或策略名。
 
 # 织梦
@@ -68,8 +68,6 @@ DOMAIN,star-space.net
 DOMAIN,pt.0ff.cc
 # 海豹
 DOMAIN,greatposterwall.com
-# Moment
-DOMAIN,www.momentpt.top
 # 海豚
 DOMAIN,dicmusic.com
 # 52pt
