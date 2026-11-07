@@ -1,0 +1,2 @@
+# 个人代理列表；每行 DOMAIN-SUFFIX,example.com 或 DOMAIN,example.com
+# 不要在这里填写策略名称；修改后运行 python3 scripts/build_rules.py

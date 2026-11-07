@@ -1,0 +1,3253 @@
+{
+  "repository": "https://github.com/pt-plugins/PT-depiler",
+  "commit": "25430f987fb1a8313cf27ba7200cba8f7ec80347",
+  "extractedAt": "2026-11-08",
+  "sites": [
+    {
+      "id": "0dayfiles",
+      "name": "0DayFiles",
+      "urls": [
+        "https://0dayfiles.net/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "13city",
+      "name": "13city",
+      "urls": [
+        "https://13city.org/",
+        "https://www.13city.org/"
+      ],
+      "legacyUrls": [
+        "https://13city.online/"
+      ],
+      "isDead": false
+    },
+    {
+      "id": "1ptba",
+      "name": "1PTBar",
+      "urls": [
+        "https://1ptba.com/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "2xfree",
+      "name": "2xFree",
+      "urls": [
+        "https://pt.2xfree.org/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "52movie",
+      "name": "52movie",
+      "urls": [
+        "https://www.52movie.top/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "52pt",
+      "name": "52PT",
+      "urls": [
+        "https://52pt.site/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "abtorrents",
+      "name": "ABTorrents",
+      "urls": [
+        "https://usefultrash.net/"
+      ],
+      "legacyUrls": [
+        "https://abtorrents.me/",
+        "https://abtorrents.xyz/"
+      ],
+      "isDead": false
+    },
+    {
+      "id": "afun",
+      "name": "Afun",
+      "urls": [
+        "https://www.ptlover.cc/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "agsvpt",
+      "name": "AGSVPT",
+      "urls": [
+        "https://pt.agsvpt.cn/",
+        "https://www.agsvpt.com/",
+        "https://new.agsvpt.cn/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "aidoruonline",
+      "name": "Aidoru!Online",
+      "urls": [
+        "https://aidoru-online.me/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "aither",
+      "name": "Aither",
+      "urls": [
+        "https://aither.cc/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "alingpt",
+      "name": "alingPT",
+      "urls": [
+        "https://pt.aling.de/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "alpharatio",
+      "name": "AlphaRatio",
+      "urls": [
+        "https://alpharatio.cc/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "animebytes",
+      "name": "AnimeBytes",
+      "urls": [
+        "https://animebytes.tv/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "animelovers",
+      "name": "ANIMELOVERS",
+      "urls": [
+        "https://animelovers.club/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "animez",
+      "name": "AnimeZ",
+      "urls": [
+        "https://animez.to/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "anthelion",
+      "name": "Anthelion",
+      "urls": [
+        "https://anthelion.me/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "asiancinema",
+      "name": "AsianCinema",
+      "urls": [
+        "https://eiga.moi/"
+      ],
+      "legacyUrls": [
+        "https://asiancinema.me/"
+      ],
+      "isDead": false
+    },
+    {
+      "id": "asmrpt",
+      "name": "ASMR PT",
+      "urls": [
+        "https://www.asmrpt.org/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "audiences",
+      "name": "Audiences",
+      "urls": [
+        "https://audiences.me/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "audionews",
+      "name": "AudioNews",
+      "urls": [
+        "https://audionews.org/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "aura4k",
+      "name": "Aura4k",
+      "urls": [
+        "https://aura4k.net/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "avgv",
+      "name": "爱薇网",
+      "urls": [
+        "https://avgv.cc/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "avistaz",
+      "name": "AvistaZ",
+      "urls": [
+        "https://avistaz.to/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "awesomehd",
+      "name": "Awesome-HD",
+      "urls": [
+        "https://awesome-hd.me/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "azusa",
+      "name": "梓喵",
+      "urls": [
+        "https://azusa.wiki/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "baconbits",
+      "name": "baconBits",
+      "urls": [
+        "https://baconbits.org/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "bakabt",
+      "name": "BakaBT",
+      "urls": [
+        "https://bakabt.me/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "baozi",
+      "name": "包子",
+      "urls": [
+        "https://p.t-baozi.cc/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "beitai",
+      "name": "备胎",
+      "urls": [
+        "https://www.beitai.pt/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "bemaniso",
+      "name": "Bemaniso",
+      "urls": [
+        "https://bemaniso.ws/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "beyondhd",
+      "name": "BeyondHD",
+      "urls": [
+        "https://beyond-hd.me/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "bibliotik",
+      "name": "Bibliotik",
+      "urls": [
+        "https://bibliotik.me/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "bitbr",
+      "name": "bitbr",
+      "urls": [
+        "https://bitbr.cc/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "bitporn",
+      "name": "BitPorn",
+      "urls": [
+        "https://bitporn.eu/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "bitpt",
+      "name": "极速之星",
+      "urls": [
+        "https://bitpt.cn/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "blutopia",
+      "name": "Blutopia",
+      "urls": [
+        "https://blutopia.cc/"
+      ],
+      "legacyUrls": [
+        "https://blutopia.xyz/"
+      ],
+      "isDead": false
+    },
+    {
+      "id": "broadcasthenet",
+      "name": "BroadcastTheNet",
+      "urls": [
+        "https://broadcasthe.net/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "brokenstones",
+      "name": "BrokenStones",
+      "urls": [
+        "https://brokenstones.is/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "btschool",
+      "name": "BTSCHOOL",
+      "urls": [
+        "https://pt.btschool.club/"
+      ],
+      "legacyUrls": [
+        "https://pt.btschool.net/"
+      ],
+      "isDead": false
+    },
+    {
+      "id": "bwtorrents",
+      "name": "BWT",
+      "urls": [
+        "https://bwtorrents.tv/",
+        "https://bwtorrents.cc/",
+        "https://bwtorrents.xyz/",
+        "https://bwtorrents.us/"
+      ],
+      "legacyUrls": [
+        "https://bwtorrents.fun/",
+        "https://bwtorrents.co/",
+        "https://www.bwtorrents.life/",
+        "https://www.bwtorrents.pro/",
+        "https://bwtorrents.live/"
+      ],
+      "isDead": false
+    },
+    {
+      "id": "byrbt",
+      "name": "北邮人-BYRBT",
+      "urls": [
+        "https://byr.pt/"
+      ],
+      "legacyUrls": [
+        "https://bt.byr.cn/"
+      ],
+      "isDead": false
+    },
+    {
+      "id": "c411",
+      "name": "C411",
+      "urls": [
+        "https://c411.org/"
+      ],
+      "legacyUrls": [
+        "https://staging-68d548c5bd4.c411.org/"
+      ],
+      "isDead": false
+    },
+    {
+      "id": "capybarabr",
+      "name": "CapybaraBR",
+      "urls": [
+        "https://capybarabr.com/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "carpt",
+      "name": "CarPT",
+      "urls": [
+        "https://carpt.net/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "cathoderaytube",
+      "name": "Cathode-Ray.Tube",
+      "urls": [
+        "https://www.cathode-ray.tube/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "cbg",
+      "name": "藏宝阁",
+      "urls": [
+        "https://cangbao.ge/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "ccfbits",
+      "name": "CCFBits",
+      "urls": [
+        "https://ccfbits.org/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "cdfile",
+      "name": "CD File",
+      "urls": [
+        "https://pt.cdfile.org/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "cdy",
+      "name": "传道院",
+      "urls": [
+        "https://pt.cdy.pics/"
+      ],
+      "legacyUrls": [
+        "https://pt.cdy.skin/"
+      ],
+      "isDead": true
+    },
+    {
+      "id": "ceskeforum",
+      "name": "CeskeForum",
+      "urls": [
+        "https://t.ceskeforum.com/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "cgpeers",
+      "name": "CGPeers",
+      "urls": [
+        "https://cgpeers.to/"
+      ],
+      "legacyUrls": [
+        "https://www.cgpeers.com/"
+      ],
+      "isDead": false
+    },
+    {
+      "id": "chdbits",
+      "name": "CHDBits",
+      "urls": [
+        "https://ptchdbits.co/"
+      ],
+      "legacyUrls": [
+        "https://chdbits.co/"
+      ],
+      "isDead": false
+    },
+    {
+      "id": "cinemageddon",
+      "name": "Cinemageddon",
+      "urls": [
+        "https://cinemageddon.net/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "cinematik",
+      "name": "Cinematik",
+      "urls": [
+        "https://cinematik.net/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "cinemaz",
+      "name": "CinemaZ",
+      "urls": [
+        "https://cinemaz.to/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "clearjav",
+      "name": "ClearJAV",
+      "urls": [
+        "https://clearjav.com/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "cnlang",
+      "name": "国语视界",
+      "urls": [
+        "https://cnlang.org/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "cnscg",
+      "name": "圣城家园PT",
+      "urls": [
+        "https://www.cnscg.club/"
+      ],
+      "legacyUrls": [
+        "https://www.hdscg.cc/"
+      ],
+      "isDead": true
+    },
+    {
+      "id": "colapt",
+      "name": "可乐",
+      "urls": [
+        "https://www.colapt.com/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "concen",
+      "name": "ConCen",
+      "urls": [
+        "https://concen.org/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "concertos",
+      "name": "Concertos",
+      "urls": [
+        "https://concertos.live/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "crabpt",
+      "name": "CrabPt",
+      "urls": [
+        "https://crabpt.vip/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "cspt",
+      "name": "财神",
+      "urls": [
+        "https://cspt.top/",
+        "https://cspt.cc/",
+        "https://cspt.date/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "cyanbug",
+      "name": "CyanBug",
+      "urls": [
+        "https://cyanbug.net/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "dabaojian",
+      "name": "大宝剑",
+      "urls": [
+        "https://pt.525968.xyz/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "dajiao",
+      "name": "DAJIAO",
+      "urls": [
+        "https://dajiao.cyou/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "danishbytes",
+      "name": "DanishBytes",
+      "urls": [
+        "https://danishbytes.club/"
+      ],
+      "legacyUrls": [
+        "https://danishbytes2.org/"
+      ],
+      "isDead": false
+    },
+    {
+      "id": "darkland",
+      "name": "Darkland",
+      "urls": [
+        "https://darkland.top/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "darkpeers",
+      "name": "darkpeers",
+      "urls": [
+        "https://darkpeers.org/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "datascene",
+      "name": "DataScene",
+      "urls": [
+        "https://datascene.xyz/"
+      ],
+      "legacyUrls": [
+        "https://datascene.net/"
+      ],
+      "isDead": false
+    },
+    {
+      "id": "daxiangjiao",
+      "name": "DaXiangJiao",
+      "urls": [
+        "https://pt.daxiangjiao.org/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "desigaane",
+      "name": "DesiGaane",
+      "urls": [
+        "https://desigaane.rocks/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "desitorrents",
+      "name": "DesiTorrents",
+      "urls": [
+        "https://torrent.desi/",
+        "https://desitorrents.tv/",
+        "https://desitorrents.rocks/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "dhtclub",
+      "name": "DHTCLUB PT",
+      "urls": [
+        "https://pt.dhtclub.com/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "dicmusic",
+      "name": "DICMusic",
+      "urls": [
+        "https://dicmusic.com/"
+      ],
+      "legacyUrls": [
+        "https://dicmusic.club/"
+      ],
+      "isDead": false
+    },
+    {
+      "id": "digitalcore",
+      "name": "DigitalCore",
+      "urls": [
+        "https://digitalcore.club/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "dirtybytes",
+      "name": "DirtyBytes",
+      "urls": [
+        "https://dirtybytes.net/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "discfan",
+      "name": "DiscFan",
+      "urls": [
+        "https://discfan.net/"
+      ],
+      "legacyUrls": [
+        "https://pt.gztown.net/"
+      ],
+      "isDead": false
+    },
+    {
+      "id": "dragonhd",
+      "name": "龍之家",
+      "urls": [
+        "https://www.dragonhd.xyz/"
+      ],
+      "legacyUrls": [
+        "https://dragonhd.xyz/"
+      ],
+      "isDead": false
+    },
+    {
+      "id": "dreadvault",
+      "name": "DreadVault",
+      "urls": [
+        "https://dreadvault.org/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "dstudio",
+      "name": "Depth Studio",
+      "urls": [
+        "https://dstudio.me/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "dubhe",
+      "name": "天枢",
+      "urls": [
+        "https://dubhe.site/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "dxdhd",
+      "name": "DXDHD",
+      "urls": [
+        "https://dxdhd.com/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "ecustpt",
+      "name": "ECUSTPT",
+      "urls": [
+        "https://pt.ecust.pp.ua/"
+      ],
+      "legacyUrls": [
+        "https://public.ecustpt.eu.org/",
+        "https://ecustpt.eu.org/"
+      ],
+      "isDead": true
+    },
+    {
+      "id": "empornium",
+      "name": "Empornium",
+      "urls": [
+        "https://emparadise.rs/",
+        "https://www.empornium.sx/"
+      ],
+      "legacyUrls": [
+        "https://www.empornium.is/",
+        "https://www.empornium.me/",
+        "https://www.empornium.rs/"
+      ],
+      "isDead": false
+    },
+    {
+      "id": "emuwarez",
+      "name": "eMuwarez",
+      "urls": [
+        "https://emu-warez.com/"
+      ],
+      "legacyUrls": [
+        "https://emuwarez.com/",
+        "https://emuwarez.it/"
+      ],
+      "isDead": false
+    },
+    {
+      "id": "exoticaz",
+      "name": "ExoticaZ",
+      "urls": [
+        "https://exoticaz.to/"
+      ],
+      "legacyUrls": [
+        "https://torrents.yourexotic.com/"
+      ],
+      "isDead": false
+    },
+    {
+      "id": "fappaizuri",
+      "name": "Fappaizuri",
+      "urls": [
+        "https://www.fappaizuri.me/"
+      ],
+      "legacyUrls": [
+        "https://fappaizuri.me/"
+      ],
+      "isDead": false
+    },
+    {
+      "id": "fearnopeer",
+      "name": "FearNoPeer",
+      "urls": [
+        "https://fearnopeer.com/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "femdomcult",
+      "name": "Femdomcult",
+      "urls": [
+        "https://femdomcult.org/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "fhpt",
+      "name": "凤凰PT",
+      "urls": [
+        "https://pt.521.best/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "filelist",
+      "name": "FileList",
+      "urls": [
+        "https://filelist.io/"
+      ],
+      "legacyUrls": [
+        "https://flro.org/"
+      ],
+      "isDead": false
+    },
+    {
+      "id": "filept",
+      "name": "Filept",
+      "urls": [
+        "https://www.filept.com/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "freefarm",
+      "name": "自由农场",
+      "urls": [
+        "https://pt.0ff.cc/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "fsm",
+      "name": "FSM",
+      "urls": [
+        "https://fsm.name/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "gainbound",
+      "name": "丐帮",
+      "urls": [
+        "https://gainbound.net/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "gazellegames",
+      "name": "GazelleGames",
+      "urls": [
+        "https://gazellegames.net/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "geminitracker",
+      "name": "GeminiTracker",
+      "urls": [
+        "https://gemini-tracker.org/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "generationfree",
+      "name": "Generation-Free",
+      "urls": [
+        "https://generation-free.org/"
+      ],
+      "legacyUrls": [
+        "https://generation-free.biz/"
+      ],
+      "isDead": false
+    },
+    {
+      "id": "gfxpeers",
+      "name": "GFXPeers",
+      "urls": [
+        "https://gfxpeers.net/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "ggpt",
+      "name": "GGPT",
+      "urls": [
+        "https://www.gamegamept.com/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "greatposterwall",
+      "name": "GreatPosterWall",
+      "urls": [
+        "https://greatposterwall.com/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "gtnet",
+      "name": "Gay-Torrents.net",
+      "urls": [
+        "https://www.gay-torrents.net/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "gtorg",
+      "name": "Gay-Torrents.Org",
+      "urls": [
+        "https://gay-torrents.org/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "gtru",
+      "name": "GayTorrent.ru",
+      "urls": [
+        "https://www.gaytor.rent/"
+      ],
+      "legacyUrls": [
+        "https://www.gaytorrent.ru/"
+      ],
+      "isDead": false
+    },
+    {
+      "id": "haidan",
+      "name": "海胆",
+      "urls": [
+        "https://www.haidan.cc/"
+      ],
+      "legacyUrls": [
+        "https://www.haidan.video/"
+      ],
+      "isDead": false
+    },
+    {
+      "id": "happyfappy",
+      "name": "HappyFappy",
+      "urls": [
+        "https://www.happyfappy.net/"
+      ],
+      "legacyUrls": [
+        "https://happyfappy.net/",
+        "https://www.happyfappy.org/"
+      ],
+      "isDead": false
+    },
+    {
+      "id": "hares",
+      "name": "HaresClub",
+      "urls": [
+        "https://club.hares.top/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "hd4fans",
+      "name": "HD4FANS",
+      "urls": [
+        "https://pt.hd4fans.org/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "hd4free",
+      "name": "HD4Free",
+      "urls": [
+        "https://hd4.xyz/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "hdai",
+      "name": "HDAI",
+      "urls": [
+        "https://www.hd.ai/"
+      ],
+      "legacyUrls": [
+        "https://hd.ai/"
+      ],
+      "isDead": true
+    },
+    {
+      "id": "hdarea",
+      "name": "HDArea",
+      "urls": [
+        "https://hdarea.club/"
+      ],
+      "legacyUrls": [
+        "https://www.hdarea.co/"
+      ],
+      "isDead": false
+    },
+    {
+      "id": "hdatmos",
+      "name": "HDATMOS",
+      "urls": [
+        "https://hdatmos.club/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "hdbao",
+      "name": "HDBao",
+      "urls": [
+        "https://hdbao.cc/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "hdbits",
+      "name": "HDBits",
+      "urls": [
+        "https://hdbits.org/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "hdchina",
+      "name": "HDChina",
+      "urls": [
+        "https://hdwing.org/"
+      ],
+      "legacyUrls": [
+        "https://hdchina.org/",
+        "https://hdchina.club/"
+      ],
+      "isDead": false
+    },
+    {
+      "id": "hdcity",
+      "name": "HDCity",
+      "urls": [
+        "https://hdcity.city/",
+        "https://hdcity.leniter.org/",
+        "https://hdcity.work/"
+      ],
+      "legacyUrls": [
+        "https://hdcity.top/"
+      ],
+      "isDead": false
+    },
+    {
+      "id": "hdclone",
+      "name": "HDClone",
+      "urls": [
+        "https://pt.hdclone.top/"
+      ],
+      "legacyUrls": [
+        "https://pt.hdclone.org/"
+      ],
+      "isDead": false
+    },
+    {
+      "id": "hddisk",
+      "name": "HDDisk",
+      "urls": [
+        "https://hddisk.org/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "hddolby",
+      "name": "UHDDolby",
+      "urls": [
+        "https://www.uhddolby.com/"
+      ],
+      "legacyUrls": [
+        "https://hddolby.com/",
+        "https://www.hddolby.com/"
+      ],
+      "isDead": false
+    },
+    {
+      "id": "hdf",
+      "name": "HD-Forever",
+      "urls": [
+        "https://hdf.world/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "hdfans",
+      "name": "HDFans",
+      "urls": [
+        "https://hdfans.org/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "hdhome",
+      "name": "HDHome",
+      "urls": [
+        "https://hdhome.org/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "hdkylin",
+      "name": "HDKylin",
+      "urls": [
+        "https://www.hdkyl.in/",
+        "https://na.hdkylin.com/",
+        "https://cf.hdkylin.com/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "hdmayi",
+      "name": "HDmayi",
+      "urls": [
+        "http://hdmayi.com/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "hdpost",
+      "name": "HDPOST",
+      "urls": [
+        "https://pt.hdpost.top/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "hdpt",
+      "name": "明教",
+      "urls": [
+        "https://hdpt.xyz/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "hdroute",
+      "name": "HDRoute",
+      "urls": [
+        "http://hdroute.org/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "hdsky",
+      "name": "HDSky",
+      "urls": [
+        "https://hdsky.me/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "hdspace",
+      "name": "HD-Space",
+      "urls": [
+        "https://hd-space.org/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "hdstreet",
+      "name": "高清街",
+      "urls": [
+        "https://hdstreet.club/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "hdtime",
+      "name": "HDTime",
+      "urls": [
+        "https://hdtime.org/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "hdtorrents",
+      "name": "HD-Torrents",
+      "urls": [
+        "https://hd-torrents.org/",
+        "https://hd-torrents.net/",
+        "https://hd-torrents.me/",
+        "https://hdts.ru/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "hdunited",
+      "name": "HD-UNiT3D",
+      "urls": [
+        "https://hd-united.vn/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "hdupt",
+      "name": "HDU",
+      "urls": [
+        "https://pt.hdupt.com/",
+        "https://pt.upxin.net/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "hdvideo",
+      "name": "HDVideo",
+      "urls": [
+        "https://hdvideo.top/"
+      ],
+      "legacyUrls": [
+        "https://hdvideo.one/"
+      ],
+      "isDead": false
+    },
+    {
+      "id": "hdzone",
+      "name": "HDZone",
+      "urls": [
+        "https://hdfun.me/"
+      ],
+      "legacyUrls": [
+        "https://hdzone.me/"
+      ],
+      "isDead": true
+    },
+    {
+      "id": "hellenichd",
+      "name": "HELLENIC-HD",
+      "urls": [
+        "https://hellenic-hd.cc/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "hhanclub",
+      "name": "憨憨",
+      "urls": [
+        "https://hhanclub.net/"
+      ],
+      "legacyUrls": [
+        "https://hhanclub.top/"
+      ],
+      "isDead": false
+    },
+    {
+      "id": "hitpt",
+      "name": "百川PT",
+      "urls": [
+        "https://www.hitpt.com/"
+      ],
+      "legacyUrls": [
+        "https://pt.ghtt.net/"
+      ],
+      "isDead": false
+    },
+    {
+      "id": "homiehelpdesk",
+      "name": "HomieHelpdesk",
+      "urls": [
+        "https://homiehelpdesk.net/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "hqmusic",
+      "name": "HQMusic",
+      "urls": [
+        "https://tracker.hqmusic.info/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "hspt",
+      "name": "回声PT",
+      "urls": [
+        "https://hspt.club/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "htpt",
+      "name": "海棠PT",
+      "urls": [
+        "https://www.htpt.cc/",
+        "https://htpt.cc/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "hudbt",
+      "name": "蝴蝶-HUDBT",
+      "urls": [
+        "https://hudbt.hust.edu.cn/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "huno",
+      "name": "HUNO",
+      "urls": [
+        "https://hawke.uno/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "hxpt",
+      "name": "好学",
+      "urls": [
+        "https://www.hxpt.org/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "ianon",
+      "name": "iAnon",
+      "urls": [
+        "https://ianon.app/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "icc2022",
+      "name": "ICC",
+      "urls": [
+        "https://www.icc2022.com/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "ihdbits",
+      "name": "iHDBits",
+      "urls": [
+        "http://ihdbits.me/",
+        "https://pt.newworld.plus/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "ilolicon",
+      "name": "ilolicon",
+      "urls": [
+        "https://mua.xloli.cc/"
+      ],
+      "legacyUrls": [
+        "https://share.ilolicon.com/"
+      ],
+      "isDead": false
+    },
+    {
+      "id": "infinityhd",
+      "name": "InfinityHD",
+      "urls": [
+        "https://infinityhd.net/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "iptorrents",
+      "name": "IPTorrents",
+      "urls": [
+        "https://iptorrents.com/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "itzmx",
+      "name": "PT分享站",
+      "urls": [
+        "https://pt.itzmx.com/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "joyhd",
+      "name": "JoyHD",
+      "urls": [
+        "https://www.joyhd.net/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "jpopsuki",
+      "name": "JPopSuki",
+      "urls": [
+        "https://jpopsuki.eu/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "jptv4us",
+      "name": "JPTV4us",
+      "urls": [
+        "https://jptv4.us/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "jptvclub",
+      "name": "JPTVClub",
+      "urls": [
+        "https://jptv.club/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "kamept",
+      "name": "KamePT",
+      "urls": [
+        "https://kamept.com/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "karagarga",
+      "name": "KaraGarga",
+      "urls": [
+        "https://karagarga.in/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "keepfrds",
+      "name": "PT@KEEPFRDS",
+      "urls": [
+        "https://pt.keepfrds.com/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "kelu",
+      "name": "Kelu",
+      "urls": [
+        "https://our.kelu.one/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "kimoji",
+      "name": "KIMOJI",
+      "urls": [
+        "https://kimoji.club/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "kufei",
+      "name": "库非",
+      "urls": [
+        "https://kufei.org/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "kufirc",
+      "name": "kufirc",
+      "urls": [
+        "https://kufirc.com/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "kunlun",
+      "name": "昆仑",
+      "urls": [
+        "https://www.yhpp.cc/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "lajidui",
+      "name": "lajidui",
+      "urls": [
+        "https://pt.lajidui.top/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "latteam",
+      "name": "LAT-Team",
+      "urls": [
+        "https://lat-team.com/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "learnflakes",
+      "name": "LearnFlakes",
+      "urls": [
+        "https://learnflakes.net/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "lemonhd",
+      "name": "LemonHD",
+      "urls": [
+        "https://lemonhd.club/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "lemonhdnet",
+      "name": "柠檬不甜",
+      "urls": [
+        "https://lemonhd.net/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "lemonhdorg",
+      "name": "LemonHD",
+      "urls": [
+        "https://lemonhd.org/"
+      ],
+      "legacyUrls": [
+        "https://leaguehd.com/"
+      ],
+      "isDead": true
+    },
+    {
+      "id": "longpt",
+      "name": "LongPT",
+      "urls": [
+        "https://longpt.org/",
+        "https://wiiii.dpdns.org/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "losslessclub",
+      "name": "LosslessClub",
+      "urls": [
+        "https://losslessclub.com/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "lpbits",
+      "name": "LP-Bits",
+      "urls": [
+        "https://lp-bits.com/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "lst",
+      "name": "LST",
+      "urls": [
+        "https://lst.gg/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "luckpt",
+      "name": "LuckPT",
+      "urls": [
+        "https://pt.luckpt.de/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "luminarr",
+      "name": "Luminarr",
+      "urls": [
+        "https://luminarr.me/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "lztr",
+      "name": "LzTr",
+      "urls": [
+        "https://lztr.me/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "march",
+      "name": "March-Media",
+      "urls": [
+        "https://duckboobee.org/",
+        "https://marchcms.org/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "midnightscene",
+      "name": "MidnightScene",
+      "urls": [
+        "https://midnightscene.cc/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "milkie",
+      "name": "Milkie",
+      "urls": [
+        "https://milkie.cc/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "minept",
+      "name": "MINE.pt",
+      "urls": [
+        "https://mine.pt/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "moecat",
+      "name": "MoeCat",
+      "urls": [
+        "https://moecat.best/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "momentpt",
+      "name": "MomentPT",
+      "urls": [
+        "https://www.momentpt.top/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "monikadesign",
+      "name": "Monikadesign",
+      "urls": [
+        "https://monikadesign.uk/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "mooko",
+      "name": "MooKo",
+      "urls": [
+        "https://mooko.org/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "morethantv",
+      "name": "MoreThanTV",
+      "urls": [
+        "https://www.morethantv.me/"
+      ],
+      "legacyUrls": [
+        "https://www.morethan.tv/"
+      ],
+      "isDead": true
+    },
+    {
+      "id": "mteam",
+      "name": "M-Team - TP",
+      "urls": [
+        "https://kp.m-team.cc/",
+        "https://zp.m-team.io/",
+        "https://ob.m-team.cc/",
+        "https://h5.m-team.cc/"
+      ],
+      "legacyUrls": [
+        "https://xp.m-team.io/",
+        "https://pt.m-team.cc/",
+        "https://tp.m-team.cc/",
+        "https://xp.m-team.cc/",
+        "https://ap.m-team.cc/",
+        "https://next.m-team.cc/"
+      ],
+      "isDead": false
+    },
+    {
+      "id": "musopia",
+      "name": "音乐乌托邦",
+      "urls": [
+        "https://www.musopia.vip/",
+        "https://pt.xzt.me/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "muxuege",
+      "name": "慕雪阁",
+      "urls": [
+        "https://pt.muxuege.org/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "myanonamouse",
+      "name": "MyAnonamouse",
+      "urls": [
+        "https://www.myanonamouse.net/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "mypt",
+      "name": "MyPT",
+      "urls": [
+        "https://cc.mypt.cc/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "myspleen",
+      "name": "MySpleen",
+      "urls": [
+        "https://www.myspleen.org/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "nanyangpt",
+      "name": "南洋PT",
+      "urls": [
+        "https://nanyangpt.com/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "ncore",
+      "name": "nCore",
+      "urls": [
+        "https://ncore.pro/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "nebulance",
+      "name": "Nebulance",
+      "urls": [
+        "https://nebulance.io/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "neu6",
+      "name": "六维空间",
+      "urls": [
+        "http://bt.neu6.edu.cn/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "nexushd",
+      "name": "NexusHD",
+      "urls": [
+        "https://v6.nexushd.org/",
+        "https://www.nexushd.org/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "nicept",
+      "name": "NicePT",
+      "urls": [
+        "https://www.nicept.net/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "njtupt",
+      "name": "浦园",
+      "urls": [
+        "https://njtupt.top/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "nordicbytes",
+      "name": "NordicBytes",
+      "urls": [
+        "https://nordicbytes.org/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "nordicquality",
+      "name": "NordicQuality",
+      "urls": [
+        "https://nordicq.org/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "novahd",
+      "name": "NovaHD",
+      "urls": [
+        "https://pt.novahd.top/",
+        "https://tracker.novahd.top/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "npupt",
+      "name": "NPUBits",
+      "urls": [
+        "https://npupt.com/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "nwsuaf6",
+      "name": "麦田PT",
+      "urls": [
+        "https://pt.nwsuaf6.edu.cn/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "okpt",
+      "name": "OKPT",
+      "urls": [
+        "https://www.okpt.net/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "oldtoonsworld",
+      "name": "OldToonsWorld",
+      "urls": [
+        "https://oldtoons.world/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "onlyencodes",
+      "name": "OnlyEncodes+",
+      "urls": [
+        "https://onlyencodes.cc/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "opencd",
+      "name": "OpenCD",
+      "urls": [
+        "https://open.cd/",
+        "https://www.open.cd/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "oppaiti",
+      "name": "Oppaitime",
+      "urls": [
+        "https://oppaiti.me/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "orpheus",
+      "name": "Orpheus",
+      "urls": [
+        "https://orpheus.network/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "oshenpt",
+      "name": "OshenPT",
+      "urls": [
+        "https://www.oshen.win/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "ourbits",
+      "name": "OurBits",
+      "urls": [
+        "https://ourbits.club/",
+        "https://www.ourbits.club/",
+        "https://pt.ourhelp.club/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "pandapt",
+      "name": "PandaPT",
+      "urls": [
+        "https://pandapt.net/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "passthepopcorn",
+      "name": "PassThePopcorn",
+      "urls": [
+        "https://passthepopcorn.me/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "peergarden",
+      "name": "PeerGarden",
+      "urls": [
+        "https://peergarden.org/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "piggo",
+      "name": "Piggo",
+      "urls": [
+        "https://piggo.me/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "pixelcove",
+      "name": "PixelCove",
+      "urls": [
+        "https://www.pixelcove.me/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "playletpt",
+      "name": "PlayLet",
+      "urls": [
+        "https://playlet.cc/"
+      ],
+      "legacyUrls": [
+        "https://playletpt.xyz/"
+      ],
+      "isDead": false
+    },
+    {
+      "id": "polishtorrent",
+      "name": "PolishTorrent",
+      "urls": [
+        "https://polishtorrent.top/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "pornbay",
+      "name": "Pornbay",
+      "urls": [
+        "https://pornbay.org/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "pornbits",
+      "name": "Pornbits",
+      "urls": [
+        "https://pornbits.net/",
+        "https://pornbits.org/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "pornolab",
+      "name": "PornoLab",
+      "urls": [
+        "https://pornolab.net/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "portugas",
+      "name": "Portugas",
+      "urls": [
+        "https://portugas.org/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "privatehd",
+      "name": "PrivateHD",
+      "urls": [
+        "https://privatehd.to/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "pt99",
+      "name": "PT99",
+      "urls": [
+        "https://pt.j99.info/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "ptcafe",
+      "name": "咖啡",
+      "urls": [
+        "https://ptcafe.club/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "ptchina",
+      "name": "PTChina",
+      "urls": [
+        "https://ptchina.org/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "ptdream",
+      "name": "PTDream",
+      "urls": [
+        "https://www.ptdream.net/",
+        "https://plus.ptdream.net/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "pter",
+      "name": "PTer",
+      "urls": [
+        "https://pterclub.net/"
+      ],
+      "legacyUrls": [
+        "https://pter.club/",
+        "https://pterclub.com/"
+      ],
+      "isDead": false
+    },
+    {
+      "id": "ptfans",
+      "name": "PTFans",
+      "urls": [
+        "https://ptfans.cc/",
+        "https://cusat.win/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "ptgtk",
+      "name": "PT GTK",
+      "urls": [
+        "https://pt.gtkpw.xyz/",
+        "https://pt.gtk.pw/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "pthome",
+      "name": "PTHome",
+      "urls": [
+        "https://pthome.net/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "ptlao",
+      "name": "PTLAO",
+      "urls": [
+        "https://ptlao.top/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "ptlgs",
+      "name": "PTLGS",
+      "urls": [
+        "https://ptlgs.org/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "ptlsp",
+      "name": "PTLSP",
+      "urls": [
+        "https://www.ptlsp.com/"
+      ],
+      "legacyUrls": [
+        "https://ptlsp.com/"
+      ],
+      "isDead": true
+    },
+    {
+      "id": "ptmsg",
+      "name": "PTMSG",
+      "urls": [
+        "https://pt.msg.vg/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "ptneko",
+      "name": "超科学PT喵",
+      "urls": [
+        "https://ptneko.com/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "ptsbao",
+      "name": "PTSBao",
+      "urls": [
+        "https://ptsbao.club/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "ptskit",
+      "name": "PTSkit",
+      "urls": [
+        "https://www.ptskit.com/",
+        "https://www.ptskit.org/"
+      ],
+      "legacyUrls": [
+        "https://www.ptskit.net/"
+      ],
+      "isDead": false
+    },
+    {
+      "id": "pttime",
+      "name": "PTTime",
+      "urls": [
+        "https://www.pttime.org/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "ptvicomo",
+      "name": "象岛",
+      "urls": [
+        "https://ptvicomo.net/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "ptzone",
+      "name": "PTzone",
+      "urls": [
+        "https://ptzone.xyz/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "pussytorrents",
+      "name": "Pussytorrents",
+      "urls": [
+        "https://pussytorrents.org/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "qingwa",
+      "name": "QingWa",
+      "urls": [
+        "https://www.qingwapt.com/",
+        "https://www.qingwapt.org/",
+        "https://www.qingwa.pro/",
+        "https://qingwapt.com/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "qingyingpt",
+      "name": "清影PT",
+      "urls": [
+        "https://hitpt.org/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "racing4everyone",
+      "name": "Racing4Everyone",
+      "urls": [
+        "https://racing4everyone.eu/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "railgunpt",
+      "name": "RailgunPT",
+      "urls": [
+        "https://bilibili.download/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "raingfh",
+      "name": "雨",
+      "urls": [
+        "https://raingfh.top/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "rastastugan",
+      "name": "Rastastugan",
+      "urls": [
+        "https://rastastugan.org/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "redacted",
+      "name": "Redacted",
+      "urls": [
+        "https://redacted.sh/"
+      ],
+      "legacyUrls": [
+        "https://redacted.ch/"
+      ],
+      "isDead": false
+    },
+    {
+      "id": "redleaves",
+      "name": "红叶",
+      "urls": [
+        "https://leaves.red/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "reelflix",
+      "name": "ReelFliX",
+      "urls": [
+        "https://reelflix.cc/",
+        "https://reelflix.xyz/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "retroflix",
+      "name": "RetroFlix",
+      "urls": [
+        "https://retroflix.net/",
+        "https://retroflix.club/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "retromoviesclub",
+      "name": "RetroMoviesClub",
+      "urls": [
+        "https://retro-movies.club/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "retrotoon",
+      "name": "RetroToon World",
+      "urls": [
+        "https://retrotoon.world/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "rockethd",
+      "name": "RocketHD",
+      "urls": [
+        "https://rocket-hd.cc/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "rousi",
+      "name": "Rousi",
+      "urls": [
+        "https://rousi.zip/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "rousipro",
+      "name": "Rousi Pro",
+      "urls": [
+        "https://rousi.pro/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "rs",
+      "name": "睿思",
+      "urls": [
+        "https://resource.xidian.edu.cn/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "rutracker",
+      "name": "RuTracker.org",
+      "urls": [
+        "https://rutracker.org/",
+        "https://rutracker.net/"
+      ],
+      "legacyUrls": [
+        "https://rutracker.nl/"
+      ],
+      "isDead": false
+    },
+    {
+      "id": "sanpro",
+      "name": "伞",
+      "urls": [
+        "https://sanpro.pw/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "sbpt",
+      "name": "SBPT",
+      "urls": [
+        "https://sbpt.link/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "sdbits",
+      "name": "SDBits",
+      "urls": [
+        "https://sdbits.org/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "secretcinema",
+      "name": "Secret Cinema",
+      "urls": [
+        "https://secret-cinema.pw/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "seedpool",
+      "name": "seedpool",
+      "urls": [
+        "https://seedpool.org/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "sewerpt",
+      "name": "下水道",
+      "urls": [
+        "https://sewerpt.com/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "shareisland",
+      "name": "ShareIsland",
+      "urls": [
+        "https://shareisland.org/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "sharkpt",
+      "name": "鲨鱼PT",
+      "urls": [
+        "https://sharkpt.net/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "simurg",
+      "name": "Simurg",
+      "urls": [
+        "https://simurg.world/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "siqi",
+      "name": "思齐",
+      "urls": [
+        "https://si-qi.xyz/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "sjtu",
+      "name": "葡萄",
+      "urls": [
+        "https://pt.sjtu.edu.cn/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "skipthecommercials",
+      "name": "SkipTheCommercials",
+      "urls": [
+        "https://skipthecommercials.xyz/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "skyeysnow",
+      "name": "SkyeySnow",
+      "urls": [
+        "https://www.skyey2.com/",
+        "https://skyeysnow.com/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "snakepop",
+      "name": "Snakepop",
+      "urls": [
+        "https://snakepop.art/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "soulvoice",
+      "name": "SoulVoice",
+      "urls": [
+        "https://pt.soulvoice.club/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "speedapp",
+      "name": "SpeedApp",
+      "urls": [
+        "https://speedapp.io/"
+      ],
+      "legacyUrls": [
+        "https://icetorrent.org/",
+        "https://scenefz.me/",
+        "https://u-torrents.ro/",
+        "https://myxz.eu/"
+      ],
+      "isDead": false
+    },
+    {
+      "id": "sportscult",
+      "name": "SportsCult",
+      "urls": [
+        "https://sportscult.org/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "springsunday",
+      "name": "SpringSunday",
+      "urls": [
+        "https://springsunday.net/"
+      ],
+      "legacyUrls": [
+        "https://hdcmct.org/"
+      ],
+      "isDead": false
+    },
+    {
+      "id": "starspace",
+      "name": "星空",
+      "urls": [
+        "https://star-space.net/"
+      ],
+      "legacyUrls": [
+        "https://shadowflow.org/"
+      ],
+      "isDead": false
+    },
+    {
+      "id": "stspt",
+      "name": "STSPT",
+      "urls": [
+        "https://www.sts.tw/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "sugoimusic",
+      "name": "SugoiMusic",
+      "urls": [
+        "https://sugoimusic.me/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "sunnypt",
+      "name": "Sunny",
+      "urls": [
+        "https://sunnypt.top/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "superbits",
+      "name": "Superbits",
+      "urls": [
+        "https://superbits.org/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "tangpt",
+      "name": "躺平",
+      "urls": [
+        "https://www.tangpt.top/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "tccf",
+      "name": "TorrentCCF",
+      "urls": [
+        "https://et8.org/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "teamhd",
+      "name": "TeamHD",
+      "urls": [
+        "https://teamhd.org/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "telly",
+      "name": "Telly",
+      "urls": [
+        "https://telly.wtf/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "tey",
+      "name": "tey",
+      "urls": [
+        "https://pt.tey.cc/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "thegeeks",
+      "name": "TheGeeks",
+      "urls": [
+        "https://thegeeks.click/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "thevault",
+      "name": "TheVault",
+      "urls": [
+        "https://thevault.click/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "tjupt",
+      "name": "北洋园PT",
+      "urls": [
+        "https://tjupt.org/",
+        "https://www.tjupt.org/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "tlfbits",
+      "name": "TLFBits",
+      "urls": [
+        "https://pt.eastgame.org/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "tlzdigital",
+      "name": "TLZ Digital",
+      "urls": [
+        "https://tlzdigital.com/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "tmpt",
+      "name": "唐门",
+      "urls": [
+        "https://tmpt.top/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "tokyopt",
+      "name": "Tokyo",
+      "urls": [
+        "https://www.tokyo-manga.top/"
+      ],
+      "legacyUrls": [
+        "https://www.tokyopt.xyz/"
+      ],
+      "isDead": false
+    },
+    {
+      "id": "torrentday",
+      "name": "TorrentsTD",
+      "urls": [
+        "https://tday.love/",
+        "https://torrentday.cool/",
+        "https://secure.torrentday.com/",
+        "https://classic.torrentday.com/",
+        "https://www.torrentday.com/",
+        "https://www.torrentday.me/",
+        "https://torrentday.it/",
+        "https://td.findnemo.net/",
+        "https://td.getcrazy.me/",
+        "https://td.workisboring.net/",
+        "https://tday.findnemo.net/",
+        "https://tday.getcrazy.me/",
+        "https://tday.workisboring.net/"
+      ],
+      "legacyUrls": [
+        "https://torrentday.com/",
+        "https://tdonline.org/",
+        "https://torrentday.eu/",
+        "https://td-update.com/",
+        "https://www.torrentday.ru/",
+        "https://www.td.af/",
+        "https://td.venom.global/",
+        "https://tday.venom.global/"
+      ],
+      "isDead": false
+    },
+    {
+      "id": "torrenthub",
+      "name": "TorrentHub",
+      "urls": [
+        "https://torrenthub.club/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "torrenting",
+      "name": "Torrenting",
+      "urls": [
+        "https://torrenting.com/",
+        "https://torrenting.me/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "torrentleech",
+      "name": "TorrentLeech",
+      "urls": [
+        "https://www.torrentleech.org/",
+        "https://www.torrentleech.cc/",
+        "https://www.torrentleech.me/",
+        "https://www.tleechreload.org/",
+        "https://www.tlgetin.cc/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "torrentseeds",
+      "name": "TorrentSeeds",
+      "urls": [
+        "https://www.torrentseeds.org/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "tosky",
+      "name": "ToSky",
+      "urls": [
+        "https://t.tosky.club/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "totheglory",
+      "name": "ToTheGlory",
+      "urls": [
+        "https://totheglory.im/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "trancetraffic",
+      "name": "TranceTraffic",
+      "urls": [
+        "https://www.trancetraffic.com/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "traxary",
+      "name": "Traxary",
+      "urls": [
+        "https://beta.traxary.com/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "tu88",
+      "name": "TU88",
+      "urls": [
+        "https://pt.tu88.men/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "turkseed",
+      "name": "TURKSEED",
+      "urls": [
+        "https://turkseed.com/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "u2",
+      "name": "U2",
+      "urls": [
+        "https://u2.dmhy.org/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "ubits",
+      "name": "UBits",
+      "urls": [
+        "https://ubits.club/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "uhdbits",
+      "name": "UHDBits",
+      "urls": [
+        "https://uhdbits.org/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "ultrahd",
+      "name": "UltraHD",
+      "urls": [
+        "https://ultrahd.net/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "unwalled",
+      "name": "Unwalled",
+      "urls": [
+        "https://unwalled.cc/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "uploadcx",
+      "name": "ULCX",
+      "urls": [
+        "https://upload.cx/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "vclib",
+      "name": "VC-Lib",
+      "urls": [
+        "https://pt.vclib.online/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "whupt",
+      "name": "珞樱-WHUPT",
+      "urls": [
+        "https://whu.pt/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "wihd",
+      "name": "WiHD",
+      "urls": [
+        "https://world-in-hd.net/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "wintersakura",
+      "name": "WinterSakura",
+      "urls": [
+        "https://wintersakura.net/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "wukongwendao",
+      "name": "悟空问道",
+      "urls": [
+        "https://wukongwendao.top/",
+        "https://wukongwendao.top/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "xauat6",
+      "name": "溪涧草堂PT",
+      "urls": [
+        "http://pt.xauat6.edu.cn/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "xdypt",
+      "name": "修道院",
+      "urls": [
+        "https://xdypt.vip/",
+        "https://pt.1ctrl.cn/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "xingtan",
+      "name": "杏坛",
+      "urls": [
+        "https://xingtan.one/"
+      ],
+      "legacyUrls": [
+        "https://xinglin.one/"
+      ],
+      "isDead": false
+    },
+    {
+      "id": "xingwan",
+      "name": "星湾",
+      "urls": [
+        "https://xingwan.cc/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "xingyunge",
+      "name": "星陨阁",
+      "urls": [
+        "https://pt.xingyungept.org/",
+        "https://pt.xingyungept.cn/"
+      ],
+      "legacyUrls": [
+        "https://xingyunge.top/"
+      ],
+      "isDead": false
+    },
+    {
+      "id": "xite",
+      "name": "x·ite.me",
+      "urls": [
+        "https://x-ite.me/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "xtr",
+      "name": "XTR",
+      "urls": [
+        "https://extremlymtorrents.ws/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "ydypt",
+      "name": "伊甸园",
+      "urls": [
+        "https://pt.hdbd.us/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "yemapt",
+      "name": "YemaPT",
+      "urls": [
+        "https://www.yemapt.org/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "yingk",
+      "name": "影客",
+      "urls": [
+        "https://yingk.com/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "yinguskg",
+      "name": "樱花",
+      "urls": [
+        "https://pt.ying.us.kg/"
+      ],
+      "legacyUrls": [],
+      "isDead": true
+    },
+    {
+      "id": "yuscene",
+      "name": "YUSCENE",
+      "urls": [
+        "https://yu-scene.net/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "yzyy",
+      "name": "YzYY",
+      "urls": [
+        "https://www.yzyy.org/",
+        "https://bbs.yzyy.asia/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "zenith",
+      "name": "Zenith",
+      "urls": [
+        "https://znth.cx/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "zhixing",
+      "name": "知行PT",
+      "urls": [
+        "http://pt.zhixing.bjtu.edu.cn/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "zhuque",
+      "name": "朱雀",
+      "urls": [
+        "https://zhuque.in/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "zmpt",
+      "name": "织梦",
+      "urls": [
+        "https://zmpt.cc/"
+      ],
+      "legacyUrls": [],
+      "isDead": false
+    },
+    {
+      "id": "zrpt",
+      "name": "ZRPT",
+      "urls": [
+        "https://naturept.top/"
+      ],
+      "legacyUrls": [
+        "https://zrpt.cc/"
+      ],
+      "isDead": false
+    }
+  ]
+}

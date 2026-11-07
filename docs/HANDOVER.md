@@ -1,0 +1,11 @@
+# 维护交接
+
+本地源码：`/srv/codex-workspace/Quantumult-X`。远端：`Quanyuqing/Quantumult-X`，维护分支 `fenliu`。
+
+用户要求维护个人代理、直连列表，并根据 PT-depiler 站点列表生成 PT 规则；已明确 PT 默认代理。个人直连例外优先。
+
+入口见 `docs/RULES.md`。个人源列表为 `SelfDirect.list`、`SelfProxy.list`；PT 来源为固定提交的 `sources/pt-sites.json`。运行 `python3 scripts/build_rules.py` 生成 `PT.list` 和 `QuantumultX/*.list`。两个 INI 模板已接入。独立 Clash YAML 未接入。
+
+已校验来源覆盖、ROT13 解码、去重、生成幂等性及 INI 引用顺序；未在用户 iOS QX 客户端实测。INI 保持原有 CRLF，检查空白时用 `git -c core.whitespace=cr-at-eol diff --check`。
+
+勿将仓库中的订阅 token 复制到说明、日志或新文件。
