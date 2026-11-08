@@ -5,7 +5,7 @@
 | 文件 | 用途 |
 | --- | --- |
 | `SelfProxy.list` | 手工维护的个人代理规则，当前 38 个 PT 站，全部精确匹配 |
-| `SelfDirect.list` | 手工维护的个人直连规则，保留原有 9 条规则 |
+| `SelfDirect.list` | 手工维护的个人直连规则，当前为空，原 IP 与域名规则已移除 |
 | `Proxy.list` | 生成的 QX 代理订阅，默认策略名为“代理” |
 | `Direct.list` | 生成的 QX 直连订阅，默认策略为 `direct` |
 | `advertising.list` | 独立保留的广告屏蔽列表 |
@@ -50,7 +50,7 @@ https://raw.githubusercontent.com/Quanyuqing/proxy-rules/fenliu/advertising.list
 
 只编辑 `SelfProxy.list`、`SelfDirect.list`，不要直接编辑 `Proxy.list`、`Direct.list`。
 
-代理列表使用 `DOMAIN,完整主机名`，不要改成后缀匹配。直连列表保留原有的域名、后缀及 IP 规则。支持 `DOMAIN`、`DOMAIN-SUFFIX`、`IP-CIDR`、`IP-CIDR6`，源文件不填写策略名称；IP 规则可保留 `no-resolve`，QX 输出会省略这个 Clash 参数。
+代理列表使用 `DOMAIN,完整主机名`，不要改成后缀匹配。直连列表当前为空；个人 VPS IP 不写入公开仓库。支持 `DOMAIN`、`DOMAIN-SUFFIX`、`IP-CIDR`、`IP-CIDR6`，源文件不填写策略名称；IP 规则可保留 `no-resolve`，QX 输出会省略这个 Clash 参数。
 
 ```sh
 python3 scripts/build_rules.py

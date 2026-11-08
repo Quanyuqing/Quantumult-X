@@ -1,11 +1,2 @@
 # 自动生成：请维护 SelfProxy.list 或 SelfDirect.list
 # 运行 python3 scripts/build_rules.py 更新。
-ip-cidr,REDACTED_PRIVATE_IP/22,direct
-ip-cidr,REDACTED_PRIVATE_IP/22,direct
-ip-cidr,REDACTED_PRIVATE_IP/22,direct
-ip-cidr,REDACTED_PRIVATE_IP/22,direct
-ip-cidr,REDACTED_PRIVATE_IP/22,direct
-ip-cidr,REDACTED_PRIVATE_IP/22,direct
-host-suffix,tiful.fun,direct
-host-suffix,winful.ac.cn,direct
-host,r2.cloudflarestorage.com,direct
