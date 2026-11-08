@@ -1,4 +1,4 @@
-# Quantumult-X
+# proxy-rules
 
 个人代理、直连和 PT 分流规则的维护与 QX 导入方法见 [规则使用说明](docs/RULES.md)。PT 默认代理。
 话总说不清楚 该怎么明了

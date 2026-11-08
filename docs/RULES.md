@@ -32,9 +32,9 @@ python3 scripts/build_rules.py
 将下面三行追加到你现有配置的 `[filter_remote]` 段，不要重复创建段。把它们放在公共规则资源之前，并在 QX 中确认匹配顺序。已有 `[filter_local]` 规则也可能影响最终匹配。
 
 ```ini
-https://raw.githubusercontent.com/Quanyuqing/Quantumult-X/fenliu/QuantumultX/Direct.list, tag=个人直连, force-policy=direct, enabled=true
-https://raw.githubusercontent.com/Quanyuqing/Quantumult-X/fenliu/QuantumultX/Proxy.list, tag=个人代理, force-policy=代理, enabled=true
-https://raw.githubusercontent.com/Quanyuqing/Quantumult-X/fenliu/QuantumultX/PT.list, tag=PT代理, force-policy=代理, enabled=true
+https://raw.githubusercontent.com/Quanyuqing/proxy-rules/fenliu/QuantumultX/Direct.list, tag=个人直连, force-policy=direct, enabled=true
+https://raw.githubusercontent.com/Quanyuqing/proxy-rules/fenliu/QuantumultX/Proxy.list, tag=个人代理, force-policy=代理, enabled=true
+https://raw.githubusercontent.com/Quanyuqing/proxy-rules/fenliu/QuantumultX/PT.list, tag=PT代理, force-policy=代理, enabled=true
 ```
 
 `代理` 必须是你 QX 中已经存在的代理策略组或节点名。若实际叫 `节点选择` 或其他名字，将上面两处 `force-policy=代理` 改为实际名称。`force-policy` 会覆盖规则文件中的策略名称，因此无需修改生成文件。选择实际代理节点后生效，仓库不包含你的节点配置。

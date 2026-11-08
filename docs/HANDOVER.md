@@ -1,6 +1,6 @@
 # 维护交接
 
-本地源码：`/srv/codex-workspace/Quantumult-X`。远端：`Quanyuqing/Quantumult-X`，维护分支 `fenliu`。
+本地源码：`/srv/codex-workspace/Quantumult-X`。远端：`Quanyuqing/proxy-rules`，维护分支 `fenliu`。
 
 用户要求维护个人代理、直连列表，并根据 PT-depiler 站点列表生成 PT 规则；已明确 PT 默认代理。个人直连例外优先。
 
