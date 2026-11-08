@@ -1,5 +1,5 @@
-# 自动生成：请维护根目录个人列表或 sources/pt-sites.json
-# 运行 python3 scripts/build_rules.py 更新；PT 站网页规则不包含独立 tracker 域名。
+# 自动生成：请维护 SelfProxy.list 或 SelfDirect.list
+# 运行 python3 scripts/build_rules.py 更新。
 ip-cidr,REDACTED_PRIVATE_IP/22,direct
 ip-cidr,REDACTED_PRIVATE_IP/22,direct
 ip-cidr,REDACTED_PRIVATE_IP/22,direct

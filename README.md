@@ -1,21 +1,32 @@
 # proxy-rules
 
-个人代理、直连和 PT 分流规则的维护与 QX 导入方法见 [规则使用说明](docs/RULES.md)。PT 默认代理。
-话总说不清楚 该怎么明了
-一字一句像圈套
-旧账总翻不完 谁无理取闹
+个人代理、直连和广告屏蔽规则，支持 Quantumult X 和订阅转换模板。
 
-# 免责声明
-在本仓库中涉及的任何资源和授权研究不能用于研究，保证其真实性能够根据实际情况，对情况进行分析和学习，并自行获取。
+## QX 订阅
 
-直接使用或使用脚本的任何用户，但不包括在法律规定的行为范围内，违反国家/地区的相关规定下进行的情况下，因此或引发的任何隐私泄露概不负责。
+| 用途 | 订阅地址 |
+| --- | --- |
+| 个人代理 | [Proxy.list](https://raw.githubusercontent.com/Quanyuqing/proxy-rules/fenliu/Proxy.list) |
+| 个人直连 | [Direct.list](https://raw.githubusercontent.com/Quanyuqing/proxy-rules/fenliu/Direct.list) |
+| 广告屏蔽 | [advertising.list](https://raw.githubusercontent.com/Quanyuqing/proxy-rules/fenliu/advertising.list) |
 
-不得将本仓库内的任何内容用于商业或非法目的，否则后果自负。
+个人代理包含用户提供的 38 个 PT 站点，使用精确域名匹配，保留 `www`、`pt` 等完整主机名前缀。Moment 已移除，憨憨保留 `hhan.club`。没有附加 PT 大全规则。
 
-如果任何单位或执行人员认为个人侵犯其权利，则应及时通知并提供身份证明，证明我将在收到项目文件后删除相关对象。
+QX 导入个人代理时，将策略指定为现有的代理策略组；直连指定 `direct`。广告列表使用“广告屏蔽”策略，导入时可指定为 `reject`。详细步骤见 [规则说明](docs/RULES.md)。
 
-quanyuqing对任何本仓库中包含的脚本在使用中可能出现的问题概不负责，包括但不因执行任何错误导致的任何损害或损害。
+## 维护
 
-您必须在下载后的 24 小时内从计算机或手机中完全删除以上内容。
+- `SelfProxy.list`：手工维护的个人代理源规则。
+- `SelfDirect.list`：手工维护的个人直连源规则。
+- `Proxy.list`、`Direct.list`：脚本生成的 QX 订阅文件。
+- `self.ini`、`4125.ini`：订阅转换模板，引用两个个人源列表和原有公共规则。
+- `Config for Clash.yaml`：保留的独立 Clash 配置。
+- `advertising.list`：保留的广告屏蔽规则。
 
-以这种方式，任何人或直接查看或直接使用该项目的用户的项目都应仔细阅读此声明。quanyuqing随时更改或免责声明的权利。脚本或其他内容，则您已接受此免责声明。
+修改源列表后，运行并将源文件、生成文件一起提交：
+
+```sh
+python3 scripts/build_rules.py
+```
+
+此处仅维护域名与 IP 分流规则；PT 站点的独立 tracker 域名需按需要另行添加。
