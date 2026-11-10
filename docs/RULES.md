@@ -63,3 +63,7 @@ python3 scripts/build_rules.py
 `self.ini` 与 `4125.ini` 引用 `SelfDirect.list`、`SelfProxy.list`；个人代理交给 `🚀 节点选择`。该组保留原有 DIRECT 选项，需选择代理节点才会走代理。
 
 `Config for Clash.yaml` 是独立配置，没有接入个人列表；广告列表、两个 INI 和该 Clash 配置均按用户要求保留。
+
+## 公开配置中的凭据
+
+`Config for Clash.yaml` 仅保留为无凭据模板，订阅地址为 `https://example.invalid/subscribe`。真实订阅应在私有存储或客户端本地设置，不提交公开 Git。实际使用中的 R2 配置独立维护，本次清理不会修改 R2。

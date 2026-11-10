@@ -13,3 +13,5 @@ PT 大全、sources/pt-sites.json 和 QuantumultX 目录已按简化要求移除
 INI 保持原有 CRLF，空白检查用 `git -c core.whitespace=cr-at-eol diff --check`。未在用户 iOS QX 客户端实测。不要把 Clash YAML 中的订阅 token 复制到日志、文档或新文件。
 
 用户指出直连列表泄露 VPS IP，已从当前源文件和 QX 生成文件移除。旧 Git 提交仍可能包含 IP，未经明确授权不强制推送重写历史。以后不要把私人 VPS IP 写入公开仓库。
+
+用户已授权处理公开敏感信息：清理当前示例配置的订阅地址，并重写历史中的订阅 token、私人 VPS IP、旧固定设备标识和票据。R2 配置不改。重写后旧克隆不可合并推回；机场订阅 token 仍需账号所有者在对应服务后台重置，Git 历史清理不会撤销凭据。
